@@ -147,7 +147,7 @@
         <text x="470" y="260" fill="#475569">🎓</text><text x="494" y="260" fill="#64748B">Education</text><text x="582" y="260" fill="#0F172A">B.E. CS (AI &amp; ML) · MIT Mysore · 2023–2027</text>
         <text x="470" y="284" fill="#475569">🔭</text><text x="494" y="284" fill="#64748B">Focus    </text><text x="582" y="284" fill="#0F172A">GenAI · Computer Vision · Autonomous Drones</text>
         <text x="470" y="308" fill="#475569">🏆</text><text x="494" y="308" fill="#64748B">Awards   </text><text x="582" y="308" fill="#10B981" filter="url(#g3)">1st ML Quiz · 3rd DroneX · NLC Presenter</text>
-        <text x="470" y="332" fill="#475569">✉</text><text x="494" y="332" fill="#64748B">Email    </text><text x="582" y="332" fill="#06B6D4" filter="url(#g2)">mueeezmueez9@gmail.com</text>
+        <text x="470" y="332" fill="#475569">✉</text><text x="494" y="332" fill="#64748B">Email    </text><text x="582" y="332" fill="#06B6D4" filter="url(#g2)">mueezmueez9@gmail.com</text>
       </g>
 
       <line x1="470" y1="350" x2="1148" y2="350" stroke="rgba(15,23,42,0.07)" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.8s" fill="freeze"/></line>
